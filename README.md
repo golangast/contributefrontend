@@ -1,14 +1,14 @@
 
-Details : https://youtu.be/xjr__JqZ-hQ
+For Details watch this video: https://www.youtube.com/watch?v=rvnIPvUy7pY
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golangast&label=Profile%20views&color=0e75b6&style=flat" alt="golangast" /> </p>
 
 
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/golangast/contribute) 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/golangast/contribute)
-![GitHub repo size](https://img.shields.io/github/repo-size/golangast/contribute)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/golangast/contribute)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/golangast/contributefrontend) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/golangast/contributefrontend)
+![GitHub repo size](https://img.shields.io/github/repo-size/golangast/contributefrontend)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/golangast/contributefrontend)
 ![Go 100%](https://img.shields.io/badge/Go-100%25-blue)
 
 
